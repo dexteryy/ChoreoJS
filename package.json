@@ -1,0 +1,32 @@
+{
+    "name": "ChoreoJS",
+    "description": "",
+    "homepage": "https://github.com/dexteryy/ChoreoJS",
+    "author": {
+        "name": "dexteryy",
+        "email": "dexter.yy@gmail.com",
+        "url": "http://github.com/dexteryy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/dexteryy/ChoreoJS.git"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }],
+    "keywords" : [
+        "AMD",
+        "oz",
+        "ozjs"
+    ],
+    "main": "choreo",
+    "version": "1.0.0",
+    "volo": {
+        "dependencies": {
+        }
+    },
+    "dependencies": {
+
+    }
+}
