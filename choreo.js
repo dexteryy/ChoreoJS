@@ -19,7 +19,7 @@ define("choreo", [
 ], function(es5, _, mainloop, Event){
 
     var window = this,
-        VENDORS = ['', 'Moz', 'webkit', 'ms', 'O'],
+        VENDORS = ['Moz', 'webkit', 'ms', 'O', ''],
         EVENT_NAMES = {
             '': 'transitionend',
             'Moz': 'transitionend',
@@ -805,7 +805,7 @@ define("choreo", [
 
     _.mix(exports, {
 
-        VERSION: '1.0.3',
+        VERSION: '1.0.4',
         renderMode: useCSS ? 'css' : 'js',
         Stage: Stage,
         Actor: Actor,
