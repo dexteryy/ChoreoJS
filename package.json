@@ -21,12 +21,12 @@
         "ozjs"
     ],
     "main": "choreo",
-    "version": "1.0.4",
+    "version": "1.1.0",
     "volo": {
         "dependencies": {
         }
     },
     "dependencies": {
-
+        "mo": "~1.4.0"
     }
 }
