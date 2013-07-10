@@ -1,6 +1,6 @@
 {
-    "name": "ChoreoJS",
-    "description": "",
+    "name": "choreo",
+    "description": "An animation library which provides a flexible way to write asynchronous sequence of actions",
     "homepage": "https://github.com/dexteryy/ChoreoJS",
     "author": {
         "name": "dexteryy",

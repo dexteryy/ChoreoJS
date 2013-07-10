@@ -1,0 +1,20 @@
+{
+    "name": "choreo",
+    "description": "An animation library which provides a flexible way to write asynchronous sequence of actions",
+    "version": "1.1.0",
+    "main": "choreo.js",
+    "dependencies": {
+        "eventmaster": "~2.1.0",
+        "mo": "~1.5.2"
+    },
+    "ignore": [
+        "**/.*",
+        "dest",
+        "npmpackage",
+        "node_modules",
+        "components",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
